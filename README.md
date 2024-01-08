@@ -1,9 +1,6 @@
-Navigate through my projects with the below link!
 <div align = "center">
 
 <h1><a href="https://github.com/rohan2468/Project_1">Projects</a></h1>
-
-# Project_1
 Daily Task Manager
 Author: Paresh Rohan
 Date: 08/01/2024
