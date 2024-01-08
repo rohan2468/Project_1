@@ -1,6 +1,7 @@
 <div align = "center">
 
 <h1><a href="https://github.com/rohan2468/Project_1">Projects</a></h1>
+<h2><a href = "https://github.com/rohan2468/Project_1/tree/main" </h2>
 <!--
 # Project_1
 Daily Task Manager
