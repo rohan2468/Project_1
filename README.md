@@ -1,4 +1,4 @@
-Hi All,
+Hi All, Kindly Look into this README document for detailed information
 <!--
 # Project_1
 Daily Task Manager
