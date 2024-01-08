@@ -1,15 +1,15 @@
+Navigate through my projects with the below link!
 <div align = "center">
 
 <h1><a href="https://github.com/rohan2468/Project_1">Projects</a></h1>
-<h2><a href = "https://github.com/rohan2468/Project_1/tree/main" </h2>
-<!--
+
 # Project_1
 Daily Task Manager
 Author: Paresh Rohan
 Date: 08/01/2024
 Title: "Daily Task Manager"
 GitHub Repository: Project_1
-
+<!--
 Description:
 This script is a Basic Daily Task Manager that allows users to manage tasks and notes through a command-line interface when they work with text-based Linux System.
 
